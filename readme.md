@@ -1,6 +1,6 @@
 # Jake Schroeder
 
-![Cool Cat Video](https://scontent.cdninstagram.com/vp/56c9fe7f7d6758e9c737ffb7139b258a/5CA77EF5/t50.2886-16/20511077_1952139608376917_5320539421097852928_n.mp4?_nc_ht=scontent.cdninstagram.com)
+![Cool Cat Video](https://cdn.dribbble.com/users/634508/screenshots/3697683/hideandseek_dribbble_2.gif)
 
 A brief introduction:
 
