@@ -75,6 +75,7 @@ body {
     font-size: 1.6rem;
     line-height: 1;
     font-family: 'Source Code Pro', monospace;
+    color: #111;
 }
 
 /*type stles*/
@@ -134,7 +135,7 @@ p {
     top: 25px;
     cursor: pointer;
     height: 32px;
-    width: 32px;
+    width: 48px;
     display: block;
     text-align: center;
     padding: 5px;
@@ -157,6 +158,11 @@ p {
 
 .card__caption {
     margin-top: 8px;
+}
+
+.card__caption  {
+    font-size: 1.2rem;
+    color: gray;
 }
 
 .card__image {
