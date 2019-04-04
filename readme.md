@@ -4,7 +4,7 @@
 
 _Gif by Tony Babel_
 
-A brief introduction:
+## A brief introduction:
 
 > Hello, I am a sophomore studying UXD with a concentration in the design aspect. 
 > I have a passion for front-end development and enjoy designing and developing web 
