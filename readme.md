@@ -2,6 +2,8 @@
 
 ![](https://cdn.dribbble.com/users/634508/screenshots/3697683/hideandseek_dribbble_2.gif)
 
+_Gif by Tony Babel_
+
 A brief introduction:
 
 > Hello, I am a sophomore studying UXD with a concentration in the design aspect. 
